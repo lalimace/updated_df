@@ -1,0 +1,5 @@
+,constructorId,constructorRef_x,name_x,nationality_x,url_x,constructorRef_y,name_y,nationality_y,url_y
+0,6,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+1,9,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing
+2,131,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+3,210,haas,Haas F1 Team,American,http://en.wikipedia.org/wiki/Haas_F1_Team,haas,Haas F1 Team,American,http://en.wikipedia.org/wiki/Haas_F1_Team
